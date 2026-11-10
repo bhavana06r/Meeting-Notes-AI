@@ -2,3 +2,4 @@ requests
 pydub
 streamlit
 groq
+gnani-vachana==0.9.0
